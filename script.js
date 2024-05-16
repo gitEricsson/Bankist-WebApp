@@ -67,7 +67,7 @@ const account3 = {
   locale: 'en-US',
 };
 
-const accounts = [account1, account2];
+const accounts = [account1, account2, account3];
 
 /////////////////////////////////////////////////
 // Elements
