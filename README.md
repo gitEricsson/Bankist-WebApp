@@ -17,15 +17,11 @@ My Personal Challenge was to recreate Jonas' BANKIST WebApp
 
 You can login with these on the live site
 
--user: er
-
-pin: 1111
+user: er && pin: 1111
 
 or
 
--user: js
-
-pin: 2222
+user: js && pin: 2222
 
 ### Features
 
