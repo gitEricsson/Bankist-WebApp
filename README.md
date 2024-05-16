@@ -40,8 +40,8 @@ pin: 2222
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/gitEricsson/Bankist-WebApp)
-- Live Site URL: [Add live site URL here](https://ericsson-bankist-webapp.netlify.app/)
+- Solution URL: [Github Repo here](https://github.com/gitEricsson/Bankist-WebApp)
+- Live Site URL: [Live site here](https://ericsson-bankist-webapp.netlify.app/)
 
 ## My process
 
