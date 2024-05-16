@@ -56,7 +56,6 @@ pin: 2222
 ## Author
 
 - Website - [Ericsson Raphael](https://github.com/gitEricsson)
-- Frontend Mentor - [@ericsson](https://www.frontendmentor.io/profile/gitEricsson)
 - LinkedIn - [@ericsson](www.linkedin.com/in/ericssonraphael)
 - Gmail - [@ericsson](ericssonraphael@gmail.com)
 
