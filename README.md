@@ -15,13 +15,11 @@
 
 My Personal Challenge was to recreate Jonas' BANKIST WebApp
 
-You can login with these on the live site
+You can login, and make transfers to other accounts(in the "transfer to" field, any of the usernames below can be made use of) with these login credentials on the live site:
 
-user: er && pin: 1111
-
-or
-
-user: js && pin: 2222
+- username: er || pin: 1111
+- username: js || pin: 2222
+- username: jd || pin: 3333
 
 ### Features
 
@@ -50,7 +48,7 @@ user: js && pin: 2222
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- JavaScript
+- TypeScript
 
 ## Author
 
