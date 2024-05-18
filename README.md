@@ -3,6 +3,8 @@
 ## Table of contents
 
 - [Overview](#overview)
+  - [About](#about)
+  - [The Challenge](#the-challenge)
   - [Features](#features)
   - [Updates](#updates)
   - [Links](#links)
@@ -13,7 +15,13 @@
 
 ## Overview
 
-My Personal Challenge was to recreate Jonas' BANKIST WebApp
+### About
+
+Bankist is an innovative and easy-to-use internet banking service. Primary tasks like money transfers, loan requests, account closures, and balance checks are implemented by this project.
+
+### The Challenge
+
+My aim was to recreate Jonas' BANKIST WebApp
 
 You can login, and make transfers to other accounts(in the "transfer to" field, any of the usernames below can be made use of) with these login credentials on the live site:
 
