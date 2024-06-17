@@ -1,4 +1,4 @@
-# Jonas Schmedtmann - BANKIST WebApp
+# BANKIST WebApp
 
 ## Table of contents
 
@@ -7,6 +7,7 @@
   - [The Challenge](#the-challenge)
   - [Features](#features)
   - [Updates](#updates)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -42,6 +43,13 @@ You can login, and make transfers to other accounts(in the "transfer to" field, 
 ### Updates
 
 - Responsive Web design across all devices
+
+### Screenshots
+
+![screenshot1](./screenshots/Screenshot1.jpeg)
+![screenshot2](./screenshots/Screenshot2.jpeg)
+![screenshot3](./screenshots/Screenshot3.jpeg)
+![screenshot4](./screenshots/Screenshot4.jpeg)
 
 ### Links
 
